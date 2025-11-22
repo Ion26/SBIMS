@@ -27,7 +27,7 @@ Branch-wise student distribution
 
 Average GPA by branch
 
-Technical Features
+TECHNICAL FEATURES:
 
 Modular Python code
 
@@ -39,7 +39,7 @@ Readable UI menu
 
 Expandable architecture
 
-
+STRUCTURE:
 SBIMS/
 │── main.py
 │── README.md
@@ -77,7 +77,7 @@ Enter student details where required
 
 View all students or perform analytics
 
-AURTHOR:
+AUTHOR:
 
 Ayan Shams
 
